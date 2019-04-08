@@ -16,7 +16,7 @@ The aim is to perform an experimental analysis to compare the performance of 2 i
 
 The file file_generation.py allows you to automatically create.txt files in the desired language and of different sizes.  To do this, simply enter the following command in the terminal once you are in the folder containing the Python file: 
 
-    python  file_generation.py  langue  taille  nombre_documents
+    python  file_generation.py  langue  taille  nomber_documents
 
 The language can be here: "Latin", "French" or "english", the size can be: "1" or "2", the number of documents for the study will be 5, but you can create as many as you want.
 
